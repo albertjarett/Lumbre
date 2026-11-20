@@ -1,0 +1,26 @@
+{
+ "cuentos": [
+  {
+   "titulo_es": "La Bella Durmiente",
+   "titulo_en": "Sleeping Beauty",
+   "autor_es": "Charles Perrault",
+   "autor_en": "Charles Perrault",
+   "desc_es": "No hubo beso. Y al despertar empezó lo peor: una suegra ogra con hambre de niños.",
+   "desc_en": "There was no kiss. And waking up was only the start: an ogress mother-in-law hungry for children.",
+   "id": "bella_durmiente",
+   "edad": "12+",
+   "minutos": 13,
+   "gratis": true,
+   "disponible": true,
+   "portada": "https://albertjarett.github.io/Lumbre/cuentos/bella_durmiente.jpg?v=1",
+   "paquete": "https://github.com/albertjarett/Lumbre/releases/download/cuentos",
+   "version": 1,
+   "formato": 1,
+   "mb": {
+    "android": 351,
+    "win": 382
+   },
+   "pruebas": true
+  }
+ ]
+}
